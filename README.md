@@ -25,4 +25,4 @@ Tworzy nowy branch
 Usuwa gałąź o nazwie develop 
 
 ### git add
-git add . - dodaj wszystkie pliki
+git add . - dodaj wszystkie pliki 
