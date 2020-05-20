@@ -33,4 +33,3 @@ Usuwa gałąź o nazwie develop
 
 ### git add
 git add . - dodaj wszystkie pliki
->>>>>>> 2ff9627486bc72ee2415278d255751d1d28c23d0
