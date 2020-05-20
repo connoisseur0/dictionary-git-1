@@ -23,3 +23,6 @@ Tworzy nowy branch
 
 ### git branch -d develop
 Usuwa gałąź o nazwie develop 
+
+### git add
+git add . - dodaj wszystkie pliki
